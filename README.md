@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Netflix Clone
+
+#### Netflix clone using React js, TMDB API and Firebase
+
+this app uses the TMDB Api to get all the data it needs, including list of movies for every genres, movies score description, title and poster. for the watch trailer part of every modal for movies i've use movieTrailer package to get the movies youTube trailer url.
+
+## <a href="https://spotify-clone-7dfce.web.app/" target="_blank">LIVE DEMO</a>
+
+## Credits
+
+#### All Credits Goes to Mohammad Javad Gharegozloo <a href='https://github.com/mjghr' target="_blank">Original Repo</a>
 
 ## Available Scripts
 
